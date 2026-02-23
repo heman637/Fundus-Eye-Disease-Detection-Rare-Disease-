@@ -1,12 +1,4 @@
 # Fundus-Eye-Disease-Detection-Rare-Disease-
-Perfect 👍
-Below is a **clean, plain-text Markdown README**.
-You can **directly COPY–PASTE** this into your `README.md` file **as it is**.
-(No special blocks, no formatting issues.)
-
----
-
-# Retinal Fundus Disease Classification Using Deep Learning
 
 ## Project Overview
 
@@ -184,7 +176,7 @@ D:\Projects\Final_Year_Project\Final Year Project Code\rare_disease\BRVO\01_BRVO
 
 Example output:
 Disease Detected: BRVO
-Confidence: XX.XX%
+Confidence: 94%
 
 ---
 
@@ -244,13 +236,3 @@ This project helped in understanding:
 Final Year B.Tech Project
 Biomedical Engineering / AI-ML Domain
 
----
-
-If you want next:
-
-* Project **report format (PDF/Word)**
-* **Viva questions & answers**
-* **PPT slides**
-* **Flowchart / architecture diagram**
-
-Just tell me 👍
