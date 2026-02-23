@@ -232,7 +232,8 @@ This project helped in understanding:
 ---
 
 ## Author
-
-Final Year B.Tech Project
-Biomedical Engineering / AI-ML Domain
+Shri Ramdeobaba College of Engineering and Management
+Biomedical Engineering 
+Mrs.Aleefia Khurshid
+Mr. Himanshu Barve
 
